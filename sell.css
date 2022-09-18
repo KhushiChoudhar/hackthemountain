@@ -1,0 +1,83 @@
+body{
+    background-color: azure;
+}.img img{
+    width:15vw;
+    height:20vh;
+    margin:0px 44%;
+}
+.nav li{
+    float:left;
+    padding:0 2vw;
+    list-style:none;
+}
+.nav ul{
+    margin:2% 33%;
+}
+.nav a{
+    text-decoration:none;
+    color:#35754A;
+    font-size:small;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    padding:0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size:20px;
+    margin:0;
+}
+.both{
+    clear:both;
+    padding:4%;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.add{
+    width:55vw;
+    height:75vh;
+    border:2px solid grey;
+    background-color: white;
+}
+h1{
+    font-size:30px;
+    text-align:center;
+    margin-right:30px;
+    font: normal 35px 'Cookie', cursive;
+}
+.add form{
+    padding:0 40px;
+    padding-left:20%;
+    box-sizing: border-box;
+}
+form .te{
+   
+    padding:0px;
+    margin:0px;
+}
+img{
+    height:500px;
+    width:400px;
+}
+form img{
+    height:100px;
+    width:150px;
+    margin:0 20%;
+}
+.button input{
+    background-color:#35754A;
+    border:2px solid green;
+    font-weight:bold;
+    color:white;
+}
+input{
+    width:80%;
+    border:white;
+    border-bottom:2px solid black;
+    height:30px;
+    margin-bottom:10px;
+    font-size:16px;
+}
+hr{
+    width:100%;
+}
